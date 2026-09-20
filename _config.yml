@@ -1,8 +1,20 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /msaveski
+
+# For a GitHub Pages *user* site (https://<username>.github.io) leave baseurl empty.
+# For a *project* site (https://<username>.github.io/<repo>) set: baseurl: /<repo>
+baseurl: ""
 
 collections:
   projects:
     output: true
+
+# Ignore old template files so they aren't built into the site
+exclude:
+  - _website_2014
+  - __deploy.sh
+  - __redirect_mit.html
+  - __redirect_su.html
+  - README.md
+  - CV_academic.tex

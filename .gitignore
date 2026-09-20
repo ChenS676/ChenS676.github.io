@@ -3,3 +3,7 @@
 .jekyll-cache
 _site/*
 _snap_md5.txt
+
+# LaTeX CV source contains personal contact details — keep out of the public repo
+CV_academic.tex
+Gemfile._tmp
