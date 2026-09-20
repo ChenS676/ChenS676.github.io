@@ -7,7 +7,7 @@ papers:
     venue: "CASE'26: IEEE International Conference on Automation Science and Engineering. Shenyang, China, 2026."
     selected: n
 
-  - title: "DynGCN: Capturing Dynamic Correlation with Message Passing"
+  - title: "When Forecasting Fails: Overcoming Temporal Correlation Shift in Time Series"
     authors: "<b>Chen Shao</b>, Zhenyi Zhu, Danai Koutra"
     venue: "ICML'26 Workshop on Foundation Models for Structured Data (FMSD). 2026."
     paper_pdf: "https://openreview.net/pdf?id=r0rUbOXBUE"

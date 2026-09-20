@@ -7,3 +7,5 @@ _snap_md5.txt
 # LaTeX CV source contains personal contact details — keep out of the public repo
 CV_academic.tex
 Gemfile._tmp
+# Source profile PDF (large; only the cropped JPG is used on the site)
+profil.pdf
