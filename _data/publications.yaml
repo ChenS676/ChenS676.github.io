@@ -56,6 +56,11 @@ papers:
 
   # ===== Preprints =====
 
+  - title: "SwitchPFN: Shared Switching Dynamics for Frozen In-Context Time Series Classification"
+    authors: "Zhenyi Zhu<sup>‡</sup>, Jacqueline Pang<sup>‡</sup>, Peilin Shen<sup>‡</sup>, Tianyi Song, Tingwei Zhang, Keyi Hu, Kangjun Yin, Shiwei Pu, Yingbo Zhou, <b>Chen Shao</b>"
+    venue: "Preprint."
+    selected: n
+
   - title: "Edge-Level Automorphism in GNNs: A Quantitative Framework and Effective Designs for Link Prediction"
     authors: "<b>Chen Shao</b>, Donald Loveland, Danai Koutra"
     venue: "Preprint."

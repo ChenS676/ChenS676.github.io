@@ -1,0 +1,6 @@
+PWD /Users/shao/Documents/www_personal
+INPUT /usr/local/texlive/2026/texmf.cnf
+INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/shao/Documents/www_personal/CV_academic.tex
+OUTPUT CV_academic.log
