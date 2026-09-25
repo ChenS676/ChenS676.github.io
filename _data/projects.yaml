@@ -24,7 +24,7 @@ projects:
     selected: n
 
   - title: "GNNs for Materials & Chemistry"
-    subtitle: "Master's Thesis & Research in the AiMat Group, KIT"
+    subtitle: "Research in the AiMat Group, KIT"
     thumbnail: "assets/projects/gnn-materials/thumbnail.svg"
     url: "projects/gnn-materials.html"
     selected: y

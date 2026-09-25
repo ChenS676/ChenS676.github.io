@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Graph Neural Networks for Materials & Chemistry
-subtitle: Master's Thesis & Research in the AiMat Group, KIT
+subtitle: Research in the AiMat Group, KIT
 ---
 This line of work was carried out in the **AiMat group** (Artificial Intelligence for Materials Science) led by **Prof. Pascal Friederich** at KIT's Institute of Theoretical Informatics, applying graph neural networks to problems in chemistry and materials science.
 
