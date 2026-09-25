@@ -24,12 +24,6 @@ experiences:
   subtitle: "Deep Learning for Laser Material Processing"
   category: "work"
 
-- place: "AiMat Group, KIT"
-  time: "2021 - 2022"
-  title: "Master's Thesis"
-  subtitle: "<i>Energy Difference Prediction in Chemistry Using Graph Neural Networks</i> <br/> Advised by Prof. Pascal Friederich (AiMat, ITI)"
-  category: "school"
-
 - place: "KIT"
   time: "2018 - 2022"
   title: "Research Assistant (Hiwi)"
