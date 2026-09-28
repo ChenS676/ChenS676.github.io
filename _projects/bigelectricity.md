@@ -8,3 +8,5 @@ subtitle: A Benchmark for Scalable Multivariate Time-Series Forecasting
 Alongside the benchmark, we design state-of-the-art approaches for forecasting on large-scale, non-stationary energy time series.
 
 Published as *BigElectricity: A Benchmark for Scalable Multivariate Time Series Forecasting* (CIKM 2025).
+
+This project features the excellent work of supervised students [Yue Wang](https://www.linkedin.com/in/yue-wang-160751359/) and Joella Wang.

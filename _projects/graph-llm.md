@@ -8,3 +8,5 @@ subtitle: Large Language Models & GNNs for Text-Attributed Graphs
 The project develops memory-efficient methods for fine-tuning large language models on text-attributed graphs, combining the semantic power of language models with the structural inductive biases of graph neural networks. As part of this work, we introduce a new benchmark for link prediction on text-attributed graphs and an efficient **LM-nested GNN** design, and study how edge-level automorphism affects link prediction performance.
 
 Related work: *Bridging Semantics and Structure: A Theoretically Grounded Framework for Link Prediction on TAGs* (TKDD 2026) and *Edge-Level Automorphism in GNNs* (preprint).
+
+This project features the excellent work of supervised student [Ruirui Wang](https://www.linkedin.com/in/ruirui-wang-46113b275/).
