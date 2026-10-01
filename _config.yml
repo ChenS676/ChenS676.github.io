@@ -5,6 +5,14 @@ includes:    ./_includes
 # For a GitHub Pages *user* site (https://<username>.github.io) leave baseurl empty.
 # For a *project* site (https://<username>.github.io/<repo>) set: baseurl: /<repo>
 baseurl: ""
+url: "https://chens676.github.io"
+
+# Site metadata (used by SEO/sitemap)
+title: "Clara (Chen) Shao"
+description: "PhD Candidate in Computer Science at KIT — graph machine learning and foundation models."
+
+plugins:
+  - jekyll-sitemap
 
 collections:
   projects:

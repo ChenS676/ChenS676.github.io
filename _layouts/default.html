@@ -6,13 +6,37 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>{{ site.data.main_info.name }} | {{ page.title }}</title>
-  <meta name="description" content="{{ site.data.main_info.name }} — {{ site.data.main_info.title }}">
-  <meta name="author" content="{{ site.data.main_info.name }}">
-  <meta property="og:title" content="{{ site.data.main_info.name }}" />
-  <meta property="og:type" content="website" />
+  <meta name="description" content="Clara Shao (Chen Shao) is a PhD Candidate in Computer Science at the Karlsruhe Institute of Technology (KIT), researching graph machine learning and foundation models for scientific and industrial applications.">
+  <meta name="author" content="Clara (Chen) Shao">
+  <meta name="keywords" content="Chen Shao, Clara Shao, Clara Chen Shao, KIT, graph machine learning, graph neural networks, foundation models, time series, link prediction">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="Clara (Chen) Shao" />
+  <meta property="og:type" content="profile" />
   <meta property="og:url" content="https://chens676.github.io" />
-  <meta property="og:site_name" content="{{ site.data.main_info.name }}" />
+  <meta property="og:site_name" content="Clara (Chen) Shao" />
+  <meta property="og:description" content="PhD Candidate in Computer Science at KIT — graph machine learning and foundation models." />
+  <meta property="og:image" content="https://chens676.github.io/assets/profile-pics/profile.jpg" />
   <link rel="canonical" href="https://chens676.github.io" />
+
+  <!-- Structured data: Person (helps search engines match "Chen Shao" / "Clara Shao") -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Clara (Chen) Shao",
+    "alternateName": ["Chen Shao", "Clara Shao", "Clara Chen Shao"],
+    "url": "https://chens676.github.io",
+    "image": "https://chens676.github.io/assets/profile-pics/profile.jpg",
+    "jobTitle": "PhD Candidate in Computer Science",
+    "affiliation": { "@type": "CollegeOrUniversity", "name": "Karlsruhe Institute of Technology (KIT)" },
+    "knowsAbout": ["Graph Machine Learning", "Graph Neural Networks", "Foundation Models", "Time Series Forecasting", "Link Prediction"],
+    "sameAs": [
+      "{{ site.data.main_info.github }}",
+      "{{ site.data.main_info.linkedin }}",
+      "{{ site.data.main_info.google_scholar }}"
+    ]
+  }
+  </script>
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
