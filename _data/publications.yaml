@@ -64,6 +64,7 @@ papers:
   - title: "Edge-Level Automorphism in GNNs: A Quantitative Framework and Effective Designs for Link Prediction"
     authors: "<b>Chen Shao</b>, Donald Loveland, Danai Koutra"
     venue: "Preprint."
+    paper_pdf: "https://arxiv.org/abs/2609.34729"
     selected: y
 
   - title: "Graph Neural Networks to Learn Joint Representations of Disjoint Molecular Graphs"
